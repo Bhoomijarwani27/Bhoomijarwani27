@@ -6,15 +6,37 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhoomijarwani27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bhoomijarwani27&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomijarwani27&layout=compact&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+    height="165"
+  />
 </p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhoomijarwani27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=bhoomijarwani27&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Bhoomijarwani27&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
