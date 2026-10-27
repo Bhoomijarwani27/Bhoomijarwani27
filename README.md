@@ -23,15 +23,12 @@
 
 # 🔥 GitHub Contribution Streak
 
-# 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/Bhoomijarwani27">
-    <img
-      src="https://streak-stats.demolab.com/?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10&timezone=Asia%2FKolkata"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
