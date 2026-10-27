@@ -80,17 +80,14 @@ I build web applications, explore AI, and strengthen my problem-solving skills t
 
 </div>
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
-<div align="center">
-
-<a href="https://github.com/Bhoomijarwani27">
-  <img src="https://streak-stats.demolab.com/?user=Bhoomijarwani27&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10&timezone=Asia%2FKolkata"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ## 🌐 Find Me Online
 
