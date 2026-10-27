@@ -23,20 +23,15 @@
 
 # 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Bhoomijarwani27&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/Bhoomijarwani27">
+    <img
+      src="https://streak-stats.demolab.com/?user=Bhoomijarwani27&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
