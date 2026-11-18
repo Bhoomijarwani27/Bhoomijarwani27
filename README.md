@@ -95,7 +95,7 @@ I build web applications, explore AI, and strengthen my problem-solving skills t
 
 <a href="https://instagram.com/bhoomi_jarwani_">Instagram</a> ·
 <a href="https://linkedin.com/in/bhoomijarwani">LinkedIn</a> ·
-<a href="https://x.com/bhoomi_jarwani_">X / Twitter</a> ·
+<a href="https://x.com/bhoomi_jarwani_">X / Twitter</a> 
 <a href="mailto:bhoomijarwani2006@gmail.com">Email</a>
 
 <br/><br/>
